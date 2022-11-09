@@ -2,18 +2,18 @@
 
 The challenge is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
 
-## Coding requirements
+# Coding requirements
 
 I'll be using Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
-## User Story requirements
+# User Story requirements
 
 AS A social media startup
 I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 
 
-## Acceptance criteria
+# Acceptance criteria
 
 GIVEN a social network API
 
@@ -46,11 +46,11 @@ and remove friends to a user’s friend list
 - [UpdateSingle User](#updateSingleUser)
 - [Delete Single User](#deleteSingleUser)
 
+## Friends
 
-### **Anchors**
+- [Add Friend](#addFriend)
+- [Delete Friend](#deleteFriend)
 
-
-### **Quantifiers**
 
 
 
