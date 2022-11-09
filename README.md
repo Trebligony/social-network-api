@@ -36,9 +36,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add
 
 and remove friends to a user’s friend list
 
-## App Screenshots
+# App Screenshots
 
-# Users
+## Users
 
 - [Add New Users](#addNewUser)
 - [Get All Users](#getAllUsers)
@@ -61,5 +61,56 @@ and remove friends to a user’s friend list
 - [Delete Single Thought](#deleteSingleThought)
 
 
+## Reactions
 
-### **App Repository Link**
+- [Add New Reaction](#addNewReaction)
+- [Delete Single Reaction](#deleteSingleReaction)
+
+
+
+### **addNewUser**
+
+
+### **getAllUsers**
+
+
+
+### **getSingleUser**
+
+
+
+### **updateSingleUser**
+
+
+### **deleteSingleUser**
+
+
+### **addFriend**
+
+
+### **deleteFriend**
+
+
+### **addNewThought**
+
+
+### **getAllThoughts**
+
+
+### **getSingleThought**
+
+
+### **updateSingleThought**
+
+ 
+### **deleteSingleThought**
+
+
+### **addNewReaction**
+
+
+### **deleteSingleReaction**
+
+
+
+# **App Repository Link**
