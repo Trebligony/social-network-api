@@ -51,27 +51,15 @@ and remove friends to a user’s friend list
 - [Add Friend](#addFriend)
 - [Delete Friend](#deleteFriend)
 
+## Thoughts
 
 
+- [Add New Thought](#addNewThought)
+- [Get All Thoughts](#getAllThoughts)
+- [Get Single Thought](#getSingleThought)
+- [Update Single Thought](#updateSingleThought)
+- [Delete Single Thought](#deleteSingleThought)
 
-### **Grouping Constructs**
-
-
-
-### **Bracket Expressions**
-
-
-### **Character Classes**
-
-
-### **The OR Operator**
-
-
-### **Flags**
-
-
-
-### **Character Escapes**
 
 
 ### **App Repository Link**
