@@ -68,7 +68,8 @@ and remove friends to a user’s friend list
 
 
 
-### **addNewUser**
+### **addNewUser** <img src="./assets/addnewUser.jpg">
+
 
 
 ### **getAllUsers**
