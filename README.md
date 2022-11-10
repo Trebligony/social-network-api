@@ -72,45 +72,20 @@ and remove friends to a user’s friend list
 
 
 
-### **getAllUsers**
+### **getAllUsers** <img src="./assets/getallUser.jpg">
 
 
 
-### **getSingleUser**
+### **getSingleUser** <img src="./assets/getSingleuser.jpg">
 
 
 
-### **updateSingleUser**
+### **updateSingleUser** <img src="./assets/updateUser.jpg">
 
 
-### **deleteSingleUser**
+### **deleteSingleUser** <img src="./assets/deleteUser.jpg">
 
 
-### **addFriend**
-
-
-### **deleteFriend**
-
-
-### **addNewThought**
-
-
-### **getAllThoughts**
-
-
-### **getSingleThought**
-
-
-### **updateSingleThought**
-
- 
-### **deleteSingleThought**
-
-
-### **addNewReaction**
-
-
-### **deleteSingleReaction**
 
 
 
